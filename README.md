@@ -8,6 +8,4 @@ C = Credit task,
 D = Distinction task,
 H/HD = High Distinction task
 
-I recommend checking out the H/HD level tasks as these are the best examples of my work in this unit.
-
 Each task contains the final code for the assignment and a PDF file containing the description and the objectives of the task.
