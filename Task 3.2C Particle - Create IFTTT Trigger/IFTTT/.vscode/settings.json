@@ -1,0 +1,6 @@
+{
+    "particle.targetDevice": "e00fce68a7c3e49bc22d6e28",
+    "particle.firmwareVersion": "2.1.0",
+    "particle.targetPlatform": "argon",
+    "cortex-debug.openocdPath": "${command:particle.getDebuggerOpenocdPath}"
+}

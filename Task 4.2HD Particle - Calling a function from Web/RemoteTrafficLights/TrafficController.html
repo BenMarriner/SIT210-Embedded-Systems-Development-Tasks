@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Traffic Lights Controller</title>
+    </head>
+
+    <h1>Traffic Lights Controller</h1>
+    <h2>Select a traffic light to toggle on/off</h2>
+    
+    <form action="https://api.particle.io/v1/devices/e00fce68a7c3e49bc22d6e28/togglelight?access_token=cd7c9dfc3cca711992037e110b40b07eee913513" method="POST">
+        <br>
+        <input type="radio" name="arg" value="red">Red
+        <br>
+        <input type="radio" name="arg" value="green">Green
+        <br>
+        <input type="radio" name="arg" value="blue">Blue
+        <br>
+        <input type="submit" value="Apply">
+    </form>
+</html>
